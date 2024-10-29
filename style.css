@@ -1,0 +1,51 @@
+#alixcan > ul#list{
+	list-style:none;
+	margin:0;
+	padding:0
+}
+
+#alixcan > ul#list li{
+	margin:0;
+	padding:0;
+	border:1px solid #ddd;
+	list-style:none;
+	margin:10px;
+	padding:10px;
+}
+
+#alixcan > ul#list li img{
+	margin:0;
+	padding:0;
+	margin-right:10px;
+	width:50px;
+	height:50px;
+	border-right:2px solid #ddd;
+	padding-left:3px;
+	float:left;
+}
+
+#alixcan > ul#list > li em{
+	font-size:9px;
+}
+
+#alixcan > div.sayfalar{
+	display:block;
+	border:1px solid #ddd;
+	background:#f1f1f1;
+	padding:5px;
+	text-align:center;
+}
+
+
+#alixcan > div.sayfalar a{
+	text-decoration:none;
+}
+
+#alixcan > div.sayfalar em{
+	padding:0 5px;
+}
+
+#alixcan > div.sayfalar a span{
+	color:black;
+	font-weight:bold;
+}
